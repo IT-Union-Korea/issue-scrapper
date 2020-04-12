@@ -5,7 +5,6 @@
             :url "https://www.eclipse.org/legal/epl-2.0/"}
   :dependencies [[org.clojure/clojure "1.10.0"]
                  [enlive "1.1.6"]
-                 [net.cgrand/moustache "1.4.0"]
                  [ring/ring-codec "1.1.2"]]
   :main ^:skip-aot nodong-scrapper.core
   :target-path "target/%s"
