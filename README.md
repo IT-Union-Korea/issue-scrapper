@@ -1,6 +1,6 @@
 # nodong-scrapper
 
-IT 노동관련 게시글을 스크래핑하고 링크를 모아두는 게시팜입니다.
+노동관련 이슈를 스크래핑합니다.
 
 ## Installation
 
