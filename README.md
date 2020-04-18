@@ -4,29 +4,18 @@
 
 ## Installation
 
-다운로드 링크 : https://github.com/jocatelo/nodong-scrapper.git
-
-
-## Usage
-
 빌드 준비사항 : Java 1.8 이상, Leiningen(https://leiningen.org/#install), Clojure(https://clojure.org/guides/getting_started)
 
-빌드 및 실행 방법 :
+다운로드 링크 : https://github.com/jocatelo/nodong-scrapper.git
+
+빌드 및 실행 방법
 
 ```
 $ git clone https://github.com/jocatelo/nodong-scrapper.git
 $ lein run
 ```
 
-또는
-
-```
-$ lein jar
-$ java -jar {빌드된 경로}/nodong-scrapper-0.1.0-standalone.jar
-```
-
-
-FIXME: listing of options this app accepts.
+## Usage
 
 ## Examples
 
