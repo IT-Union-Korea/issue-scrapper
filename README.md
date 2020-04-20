@@ -26,8 +26,19 @@ $ lein run
 
 ## Options
 ### Bugs
-### Any Other Sections
-### That You Think
+### Report 
+
+스크랩 관련 이슈 :
+- 제보가 올라올 만한 게시판
+- 제보를 빠르게 찾을 수 있을만한 키워드 : (야근, 주휴수당 등등...)
+- 보고를 편하게 받을 수 있는 포맷
+- 기타 등등
+
+아래 방법등을 사용하여 알려주시면 됩니다.
+ - 텔레그램으로 직접 멘션하기 
+-  깃헙 이슈 사이트(https://github.com/jocatelo/nodong-scrapper/issues)
+-  Slack 기술위원회 채널 (https://itunionworkspace.slack.com/archives/C01235H6PKL)
+
 ### Might be Useful
 
 ## License
