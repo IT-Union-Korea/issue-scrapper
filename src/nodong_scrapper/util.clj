@@ -4,8 +4,8 @@
            (java.io InputStreamReader)))
 
 (defn euc-kr-url-reader [url]
-  (-> url
-      (URL.)
-      (.openStream)
-      (InputStreamReader. "EUC-KR")
-      (html/html-resource)))
+  (dosync (-> url
+              (URL.)
+              (.openStream)
+              (InputStreamReader. "EUC-KR")
+              (html/html-resource))))
